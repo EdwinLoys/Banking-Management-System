@@ -277,5 +277,5 @@ This project is built for learning and portfolio purposes.
 ## 👤 Author
 
 **Edwin Loys**
-- GitHub: [@YOUR_GITHUB](https://github.com/YOUR_GITHUB)
-- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- GitHub: [@YOUR_GITHUB](https://github.com/EdwinLoys)
+- LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](http://www.linkedin.com/in/clingtonloys)
