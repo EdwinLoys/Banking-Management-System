@@ -10,6 +10,11 @@ A full-stack banking management system built with **ASP.NET Core 8** and **React
 |---|---|---|
 | Role-based login (Admin / Employee) | Real-time overview with recent activity | 4 loan types with EMI calculator |
 
+<img width="1890" height="866" alt="Login Page" src="https://github.com/user-attachments/assets/527b4998-a5df-486c-8ade-f315d971fc45" />
+<img width="1910" height="2236" alt="DashBoard" src="https://github.com/user-attachments/assets/2a79d4e2-489b-47be-8048-91c500ee8005" />
+<img width="1897" height="867" alt="Loan " src="https://github.com/user-attachments/assets/6aee0350-8484-4ee5-86f9-a4974e787bd8" />
+
+
 ---
 
 ## 🚀 Tech Stack
