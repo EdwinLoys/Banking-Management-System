@@ -1,0 +1,24 @@
+# ── .NET / C# ────────────────────────────────
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Development.json
+
+# ✅ IMPORTANT — never upload your real secrets
+# Keep appsettings.json but remove the real password
+# Use environment variables on Azure/AWS instead
+
+# ── React / Node ─────────────────────────────
+node_modules/
+banking-frontend/build/
+.env
+.env.local
+
+# ── OS files ─────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ─────────────────────────────────────
+*.log
