@@ -16,6 +16,7 @@ function App() {
                     token ? <Dashboard /> : <Navigate to="/login" />
                 } />
             </Routes>
+        <h1>Learn React</h1>
         </BrowserRouter>
     );
 }
